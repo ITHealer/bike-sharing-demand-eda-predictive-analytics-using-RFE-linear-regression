@@ -1,3 +1,5 @@
+# Author: Ung Minh Hoài
+
 # Bike Sharing Demand (Accuracy = 79%)
 
 # Tài liệu tham khảo 
